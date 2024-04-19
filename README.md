@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/gabbezeira/Miraculous-Theme/blob/main/assets/icon.svg" alt="Miraculous Logo" width="140">
+  <img src="https://github.com/gabbezeira/Miraculous-Theme/blob/main/assets/icon.png" alt="Miraculous Logo" width="140">
   <br>
     Miraculous Theme <a href="https://code.visualstudio.com/" style="color: #65d072 !important">Visual Studio Code</a>
   <br>
