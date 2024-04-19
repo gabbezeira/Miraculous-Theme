@@ -1,0 +1,27 @@
+{
+  "name": "miraculous-theme",
+  "displayName": "Miraculous Theme",
+  "description": "Minimalist color theme for VS Code with green and purple tones",
+  "publisher": "Gabbezeira",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabbezeira/Miraculous-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Miraculous Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Miraculous Theme-color-theme.json"
+      }
+    ]
+  }
+}
