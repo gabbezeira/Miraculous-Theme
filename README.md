@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/gabbezeira/Miraculous-Theme/blob/main/assets/icon.png" alt="Miraculous Logo" width="140">
+  <img src="https://raw.githubusercontent.com/gabbezeira/Miraculous-Theme/main/assets/icon.png" alt="Miraculous Logo" width="140">
   <br>
     Miraculous Theme <a href="https://code.visualstudio.com/" style="color: #65d072 !important">Visual Studio Code</a>
   <br>
@@ -17,9 +17,9 @@
 </p>
 
 <p align="center" style="color: #65d072">
-  <a href="#install">Install</a> •
-  <a href="#team">Team</a> •
-  <a href="#license">License</a>
+  <a href="#install" style="color: #65d072">Install</a> •
+  <a href="#team" style="color: #65d072">Team</a> •
+  <a href="#license" style="color: #65d072">License</a>
 </p>
 
 <br>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img alt="Miraculous Theme screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Miraculous-Theme/blob/main/assets/preview.png">
+  <img alt="Miraculous Theme screnshoot for Visual Studio Code" src="https://raw.githubusercontent.com/gabbezeira/Miraculous-Theme/main/assets/preview.png">
 </p>
 
 <br>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img alt="Miraculous Terminal screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Miraculous-Theme/blob/main/assets/terminal-preview.png">
+  <img alt="Miraculous Terminal screnshoot for Visual Studio Code" src="https://raw.githubusercontent.com/gabbezeira/Miraculous-Theme/main/assets/terminal-preview.png">
 </p>
 
 <br>
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img alt="Miraculous Json screnshoot for Visual Studio Code" src="https://github.com/gabbezeira/Miraculous-Theme/blob/main/assets/json-preview.png">
+  <img alt="Miraculous Json screnshoot for Visual Studio Code" src="https://raw.githubusercontent.com/gabbezeira/Miraculous-Theme/main/assets/json-preview.png">
 </p>
 
 ## Installation
